@@ -32,3 +32,10 @@ This repository contains code for projects built during vue course. Will update 
 ## Section 10
 
 - Exercise: used props, slots, components and binding to styles.
+
+## Section 11
+
+- Forms
+  - binding form data
+  - use v-model: it binds the value and also gives input listener
+  - we can build custom form element as component by passing value to component and emitting input from component to form
