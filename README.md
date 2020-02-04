@@ -28,3 +28,7 @@ This repository contains code for projects built during vue course. Will update 
   - We can have default content for slot if needed.
   - <component> is used to dynamic component rendering
   - component is destroyed and recreated when switching between dynamic components(Although we can override this behaviour though)
+
+## Section 10
+
+- Exercise: used props, slots, components and binding to styles.
