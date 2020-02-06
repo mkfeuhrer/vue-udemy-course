@@ -39,3 +39,13 @@ This repository contains code for projects built during vue course. Will update 
   - binding form data
   - use v-model: it binds the value and also gives input listener
   - we can build custom form element as component by passing value to component and emitting input from component to form
+
+## Section 12
+
+- Hooks:
+  - bind
+  - inserted
+  - update
+  - componentUpdated
+  - unbind
+- How to use and make custom directive - binding. modifier property
