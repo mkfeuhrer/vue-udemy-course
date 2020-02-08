@@ -49,3 +49,10 @@ This repository contains code for projects built during vue course. Will update 
   - componentUpdated
   - unbind
 - How to use and make custom directive - binding. modifier property
+
+## Section 13
+
+- Filters
+  - local and global
+  - chaining of filters
+  - use of computed properties as filters
