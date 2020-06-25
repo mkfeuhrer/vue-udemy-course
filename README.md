@@ -56,3 +56,7 @@ This repository contains code for projects built during vue course. Will update 
   - local and global
   - chaining of filters
   - use of computed properties as filters
+
+## Section 14
+
+- Transition can be used for single element
